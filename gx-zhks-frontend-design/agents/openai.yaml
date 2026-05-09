@@ -1,0 +1,8 @@
+interface:
+  display_name: "gx-zhks frontend design"
+  short_description: "智慧矿山智能体平台统一前端设计规范"
+  brand_color: "#22D3EE"
+  default_prompt: "Use $gx-zhks-frontend-design to redesign this smart-mine agent page in the unified 智慧矿山智能体平台 style."
+
+policy:
+  allow_implicit_invocation: false
